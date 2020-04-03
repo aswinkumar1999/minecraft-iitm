@@ -1,1 +1,1 @@
-# minecraft-iitm
+# Minecraft-iitm
