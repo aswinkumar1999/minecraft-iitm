@@ -26,6 +26,8 @@ and Join Server
 
 ## Controls - Basics
 
+### Make sure you don't left click on already built items !!
+
 ```
 WASD + Mouse : To Move and Look Around 
 Left Clcik : Throw / Destory Blocks
