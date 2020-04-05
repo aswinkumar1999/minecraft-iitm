@@ -15,4 +15,4 @@
 ## Things to do
 
 - [ ] Make full elephants
-- [ ] See if things can be a more proportionate in size
+- [ ] See if things can be more proportionate in size
