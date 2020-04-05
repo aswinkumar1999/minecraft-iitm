@@ -8,8 +8,9 @@
 
 **Minecraft version**
 
-<img align="left" width="300" height="200" src="images/side.png">
-<img align="right" width="300" height="200" src="images/front.png">
+<img align="left" width="375" height="250" src="images/side.png">
+<img align="right" width="375" height="250" src="images/front.png">
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Things to do
 
