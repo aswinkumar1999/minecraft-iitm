@@ -1,5 +1,8 @@
 # Minecraft-iitm
 
+### Note : Currently server is turned off and for you can use the `gc.zip` from `Gajendra Circle` Folder for the world files...
+
+
 ## MacOS , Windows & Linux : 
 
 #### Downloads/Pre-requisites : 
