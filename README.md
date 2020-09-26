@@ -2,6 +2,7 @@
 
 ### Note : Currently server is turned off and for you can use the `gc.zip` from `Gajendra Circle` Folder for the world files...
 
+### TLauncher is definitely not the official launcher (which, by the way, is here: Minecraft Launcher); it is pirated, which means it's illegal, which means it probably has viruses and users are asked to download it at their own risk.
 
 ## MacOS , Windows & Linux : 
 
